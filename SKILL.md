@@ -1,5 +1,3 @@
-[Uploading SKILL.md…]()
----
 name: nana-travel-itinerary-generator
 description: 生成复杂国外多城市旅行HTML行程单。支持两种模式：1）规划模式：只需提供目的地+时间+偏好，AI推荐酒店位置和景点安排；2）整理模式：提供已有的机票酒店信息，整合成完整行程单。输出包含地图、日程表、预算、签证清单、天气穿搭、餐饮指南的可视化行程单。
 intent: >-
